@@ -56,7 +56,7 @@ print (Y_pred)
 ![inp](./input.jpg)
 
 ## output
-![output]()
+![output](https://github.com/charansai0/Univariate-Linear-Regression/blob/main/Screenshot%20(224).png?raw=true)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
